@@ -5,7 +5,7 @@
 Machine Learning
 ## PROJECT
 Ship vs Truck Image Classifier
-     It is a fundamental Deep Learning project done using Python Keras. In this Keras project, we will discover how to build and train a convolution neural network for classifying images of Ships and Trucks. The dataset includes 500 images with equal numbers of labels for ships and trucks.
+### It is a fundamental Deep Learning project done using Python Keras. In this Keras project, we will discover how to build and train a convolution neural network for classifying images of Ships and Trucks. The dataset includes 500 images with equal numbers of labels for ships and trucks.
 
 ## How it Works?
  ###### 1.Import the libraries
@@ -34,15 +34,12 @@ Ship vs Truck Image Classifier
 
 ## Libraries used
  ###### 1.tensorflow==2.0.0
- ###### 2.tensorflow-estimator==2.0.1
  ###### 3.Keras==2.3.1
  ###### 4.Keras-Applications==1.0.8
  ###### 5.Keras-Preprocessing==1.1.0
  ###### 6.Flask==1.1.1
  ###### 7.importlib-metadata==1.2.0
  ###### 8.ipykernel==5.1.3
- ###### 9.Jinja2==2.10.3
- ###### 10.json5==0.8.5
  ###### 11.matplotlib==3.1.2
  ###### 12.notebook==6.0.3
  ###### 13.numpy==1.17.4
